@@ -28,7 +28,6 @@ public class OccurredValue
 				{
 					maxOccurence = tmp;
 					index = i;
-					
 				}
 			}
 			else count[_array[i]] = 1;
