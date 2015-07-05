@@ -1,4 +1,4 @@
 MaximumOccurredValueProject
 =======================
 
-Description: Search for the most frequently appearing value in array
+Description: Search for the most frequently appearing value in array (riddle)
